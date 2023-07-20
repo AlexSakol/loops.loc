@@ -12,6 +12,7 @@
         <title>LAB_2</title>        
     </head>
     <body>
+        <a href="/index.php">Main</a>
             <form action="" method="POST">
             <label for="a">Введите a</label><br>
             <input type ="text" placeholder="1" id="a" name="a"><br>
