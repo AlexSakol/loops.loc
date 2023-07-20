@@ -1,3 +1,10 @@
+
+<!--Create table
+ x     S(x)   Y(x)   |Y(x)-S(x)|
+ x changes from a to b with step h
+ user enters a, b, h and n from the keyboard
+ Check a perfomance for a=0,1; b=1,0; h=0,1; value n is choisen by the user
+-->
 <!DOCTYPE html>
 <html>
     <head>

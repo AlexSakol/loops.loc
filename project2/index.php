@@ -1,4 +1,8 @@
 <?php
+/*
+ y(x) = sin^2x - x/5 -1
+ Find x for which y = 0
+*/
 $a; $b; $h; $a1; $a2;
 $a = -4;
 $b = 0;
