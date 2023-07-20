@@ -1,4 +1,4 @@
-<a href="/index.php">Main</a>
+<a href="/index.php">Main</a><br>
 <?php
 /*
  y(x) = sin^2x - x/5 -1
